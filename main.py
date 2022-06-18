@@ -638,7 +638,7 @@ def onmessage(update,bot:ObigramClient):
 
 
 def main():
-    bot_token = os.environ.get('bot_token')
+    bot_token = os.environ.get('5272466481:AAHYxL1wTxk0RwrS5LWlKo0gXdGrSCZRrCg'
 
     #set in debug
     bot_token = '5272466481:AAHYxL1wTxk0RwrS5LWlKo0gXdGrSCZRrCg'
