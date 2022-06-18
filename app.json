@@ -7,8 +7,8 @@
       "value": ""
     },
     "bot_token": {
-      "description": "'
-      "value": "'
+      "description": "El token del bot",
+      "value": ""
     }
   }
 }
