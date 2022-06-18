@@ -4,10 +4,10 @@
   "env": {
     "administrador": {
       "description": "El Usuario DE Telegram Q Va A ADministrar El Bot",
-      "value": "JAGB2021"
+      "value": ""
     },
     "bot_token": {
-      "description": "5272466481:AAHYxL1wTxk0RwrS5LWlKo0gXdGrSCZRrCg'
+      "description": "'
       "value": "'
     }
   }
