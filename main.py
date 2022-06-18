@@ -643,7 +643,7 @@ def main():
     #set in debug
     bot_token = '5272466481:AAHYxL1wTxk0RwrS5LWlKo0gXdGrSCZRrCg'
 
-    bot = ObigramClient(bot_token)
+    bot = ObigramClient(5272466481:AAHYxL1wTxk0RwrS5LWlKo0gXdGrSCZRrCg)
     bot.onMessage(onmessage)
     bot.run()
 
